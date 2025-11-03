@@ -1,12 +1,12 @@
-# 📝 To-Do List – Gerenciador de Tarefas
+#  To-Do List – Gerenciador de Tarefas
 
-## 📖 Descrição do Projeto
+## Descrição do Projeto
 O **To-Do List** é um sistema simples para gerenciamento de tarefas, desenvolvido em **Python** como parte do estudo de **Engenharia de Software 6.0**.
 Permite **criar, listar, atualizar, excluir e marcar tarefas como concluídas**.
 
 O projeto aplica práticas ágeis baseadas em **Kanban**, controle de qualidade com **testes automatizados (PyTest)** e **integração contínua (GitHub Actions)**.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Criar nova tarefa
 - Listar todas as tarefas
 - Atualizar título e descrição
@@ -14,13 +14,13 @@ O projeto aplica práticas ágeis baseadas em **Kanban**, controle de qualidade 
 - Excluir tarefas
 - Filtrar tarefas concluídas (mudança de escopo)
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python 3.11
 - PyTest
 - GitHub Actions
 - Kanban
 
-## 🧩 Instruções
+## Instruções
 ```bash
 git clone https://github.com/seuusuario/to-do-list.git
 cd to-do-list
