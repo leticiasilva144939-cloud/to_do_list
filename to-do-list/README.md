@@ -31,8 +31,6 @@ pip install -r requirements.txt
 pytest
 ```
 
-## 🔄 Mudança de Escopo
+## Mudança de Escopo
 Durante o desenvolvimento, foi adicionada a funcionalidade **Filtrar tarefas concluídas**, para melhorar a experiência do usuário.
 
-## 👥 Autoria
-Desenvolvido por **Letícia Campos**
